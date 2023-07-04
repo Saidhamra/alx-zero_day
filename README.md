@@ -1,9 +1,5 @@
-On branch master
-Your branch is up to date with 'origin/master'.
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   README.md
-
-no changes added to commit (use "git add" and/or "git commit -a")
+[master 6450771] Starting to code today, so cool
+ 5 files changed, 15 insertions(+), 2 deletions(-)
+ create mode 100644 c/c_is_fun.c
+ create mode 100644 js/index.js
+ create mode 100644 js/main.js
