@@ -4,3 +4,5 @@
  delete mode 100644 bash/README.md
  delete mode 100644 bash/alx
  delete mode 100644 bash/school
+ update git
+ 
